@@ -1,0 +1,15 @@
+Description;Team;Customer;Date;Link;Type;Stage;Usecase;Department;Industry;Field;Description2
+TestTest;BE DnA;C1;2022-12;https://www.bing.com/;Team;Inspiration;Supply Chain;;;;
+TestTestTest;DK;C2;2022-12;google.com;Strategy;Inspiration;Supply Chain;Finance;Shipping;"Ai Maturity; Stre";Great AI MAturity
+TestTestTestTest;DK DnA;C3;2022-12;https://www.bing.com/;Dev;Delivery;Supply Chain;Finance;Manufacturing;;
+TestTestTestTestTest;DK DnA;C2;2022-05;google.com;Tech;Inspiration;TT;;Healthcare;General;
+TestTestTestTestTestTest;DK DnA;C1;2022-09;https://www.bing.com/;Team;Inspiration;TT;;Public Sector;MLOps;
+TestTestTestTestTestTestTest;DK DnA;C2;2022-10;google.com;Strategy;Inspiration;TT;;;MLOps;
+TestTestTestTestTestTestTestTest;DK DnA;C1;2022-11;https://www.bing.com/;Dev;Pitch;TT;;;MLOps;
+TestTestTestTestTestTestTestTestTest;EY;C3;2022-12;google.com;Tech;Inspiration;DT;;;;
+TestTestTestTestTestTestTestTestTestTest;EY;C1;2022-12;https://www.bing.com/;Team;Inspiration;DT;;;;
+TestTestTestTestTestTestTestTestTestTestTest;;C3;2022-02;google.com;Strategy;Inspiration;DT;;;General;
+TestTestTestTestTestTestTestTestTestTestTestTest;DE;C1;2022-12;https://www.bing.com/;Dev;Inspiration;DT;;;General;
+TestTestTestTestTestTestTestTestTestTestTestTestTest;;C1;2022-12;google.com;Tech;Inspiration;DT;;;General;
+;;;;;;;;;;;
+;;;;;;;;;;;
